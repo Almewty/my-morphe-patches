@@ -1,13 +1,13 @@
-group = "app.morphe"
+group = "app.almewty.morphe-patches"
 
 patches {
     about {
-        name = "XYZ Patches for use with Morphe"
-        description = "Example patches"
-        source = "git@github.com:MorpheApp/morphe-patches-template.git"
-        author = "Awesome dev"
+        name = "Almewty's Patches for use with Morphe"
+        description = "My patches for my purposes"
+        source = "git@github.com:Almewty/my-morphe-patches.git"
+        author = "Almewty"
         contact = "na"
-        website = "https://morphe.software"
+        website = "https://github.com/Almewty"
         license = "GPLv3"
     }
 }
